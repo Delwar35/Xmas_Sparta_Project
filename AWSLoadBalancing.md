@@ -33,11 +33,11 @@
 
 ### Step 3: Configuration
 
-![image](https://user-images.githubusercontent.com/14828358/146764372-0d0a5752-8301-42ad-86c4-f4df6a433bcf.png)
+![image](https://user-images.githubusercontent.com/14828358/146766080-905a798f-32c2-458c-b896-9d43a0c6d58f.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/146764902-c679cd5a-ff23-4d04-bb05-db8ed7bfa6f2.png)
 
-![image](https://user-images.githubusercontent.com/14828358/146764966-4a839c5b-82b9-4795-b933-804c4c48e67f.png)
+![image](https://user-images.githubusercontent.com/14828358/146766022-30908376-4d1c-4571-906b-39e020d93e2e.png)
 
 ![image](https://user-images.githubusercontent.com/14828358/146765680-1c8a4ec7-451c-46f6-b330-f3ad9057f4fc.png)
 
