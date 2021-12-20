@@ -1,7 +1,7 @@
 # How to set up load balancing
 
-Introduction: https://www.youtube.com/watch?v=qpHLRc4Qt1E&ab_channel=StephaneMaarek
-Practical: https://www.youtube.com/watch?v=OGEZn50iUtE&ab_channel=StephaneMaarek
+- Introduction: https://www.youtube.com/watch?v=qpHLRc4Qt1E&ab_channel=StephaneMaarek
+- Practical: https://www.youtube.com/watch?v=OGEZn50iUtE&ab_channel=StephaneMaarek
 
 ## What is it?
 
