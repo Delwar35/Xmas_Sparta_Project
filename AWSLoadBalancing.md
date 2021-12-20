@@ -20,3 +20,25 @@
 
 ![image](https://user-images.githubusercontent.com/14828358/146758588-502c3422-a49c-4169-b7e2-fc31c275b488.png)
 
+## Creating a ELB
+
+### Step 1
+![image](https://user-images.githubusercontent.com/14828358/146764007-168cbb05-84c4-49c7-9de3-83a479dd0248.png)
+
+### Step 2: Select Type
+
+- Choose Applcation Load Balancer
+
+![image](https://user-images.githubusercontent.com/14828358/146764242-dc8c9f14-a9d4-419a-b124-39450b2a0e79.png)
+
+### Step 3: Configuration
+
+![image](https://user-images.githubusercontent.com/14828358/146764372-0d0a5752-8301-42ad-86c4-f4df6a433bcf.png)
+
+![image](https://user-images.githubusercontent.com/14828358/146764902-c679cd5a-ff23-4d04-bb05-db8ed7bfa6f2.png)
+
+![image](https://user-images.githubusercontent.com/14828358/146764966-4a839c5b-82b9-4795-b933-804c4c48e67f.png)
+
+
+
+
