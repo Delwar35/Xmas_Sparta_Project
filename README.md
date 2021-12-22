@@ -30,3 +30,39 @@ Stress testing (sometimes called torture testing) is a form of deliberately inte
 ## Spike Testing 
 
 Spike testing is a type of performance testing in which an application receives a sudden and extreme increase or decrease in load. The goal of spike testing is to determine the behavior of a software application when it receives extreme variations in traffic.
+
+## Doanloading gatling
+
+- https://gatling.io/open-source/
+
+![](Images/download.png)
+
+- Unzip, save and copy the path 
+
+![](Images/gatlingpath.png)
+
+- Create an invornment variable and set the path to Gatling folder
+
+![](Images/envvariable1.png)
+
+![](Images/envvariable2.png)
+
+![](Images/envvariable3.png)
+
+![](Images/envvariable4.png)
+
+![](Images/envvariable5.png)
+
+![](Images/envvariable6.png)
+
+## Recording Gatling
+
+- On Terminal cd into Gatling directory and launch a recorder.bat file 
+
+![](Images/recorder1.png)
+
+![](Images/recorder2.png)
+
+
+
+
