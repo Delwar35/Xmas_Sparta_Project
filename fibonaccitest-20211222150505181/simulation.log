@@ -1,0 +1,379 @@
+RUN	Fibonaccitest	fibonaccitest	1640185505181	 	3.7.2
+USER	Fibonaccitest	START	1640185507456
+USER	Fibonaccitest	START	1640185507457
+USER	Fibonaccitest	START	1640185508400
+USER	Fibonaccitest	START	1640185508401
+USER	Fibonaccitest	START	1640185508403
+USER	Fibonaccitest	START	1640185507455
+USER	Fibonaccitest	START	1640185507427
+USER	Fibonaccitest	START	1640185508405
+USER	Fibonaccitest	START	1640185507437
+USER	Fibonaccitest	START	1640185508407
+USER	Fibonaccitest	START	1640185508407
+USER	Fibonaccitest	START	1640185508407
+USER	Fibonaccitest	START	1640185508408
+USER	Fibonaccitest	START	1640185508408
+USER	Fibonaccitest	START	1640185508409
+USER	Fibonaccitest	START	1640185508410
+USER	Fibonaccitest	START	1640185508410
+USER	Fibonaccitest	START	1640185508411
+USER	Fibonaccitest	START	1640185507446
+USER	Fibonaccitest	START	1640185508413
+USER	Fibonaccitest	START	1640185508413
+USER	Fibonaccitest	START	1640185508414
+USER	Fibonaccitest	START	1640185508414
+USER	Fibonaccitest	START	1640185508414
+USER	Fibonaccitest	START	1640185508415
+USER	Fibonaccitest	START	1640185508416
+USER	Fibonaccitest	START	1640185508416
+USER	Fibonaccitest	START	1640185508417
+USER	Fibonaccitest	START	1640185508419
+USER	Fibonaccitest	START	1640185507460
+USER	Fibonaccitest	START	1640185508403
+USER	Fibonaccitest	START	1640185508421
+USER	Fibonaccitest	START	1640185508422
+USER	Fibonaccitest	START	1640185508423
+USER	Fibonaccitest	START	1640185508423
+USER	Fibonaccitest	START	1640185508423
+USER	Fibonaccitest	START	1640185508424
+USER	Fibonaccitest	START	1640185508424
+USER	Fibonaccitest	START	1640185508413
+USER	Fibonaccitest	START	1640185508426
+USER	Fibonaccitest	START	1640185508426
+USER	Fibonaccitest	START	1640185508417
+USER	Fibonaccitest	START	1640185508426
+USER	Fibonaccitest	START	1640185508424
+USER	Fibonaccitest	START	1640185508427
+USER	Fibonaccitest	START	1640185508426
+USER	Fibonaccitest	START	1640185508423
+USER	Fibonaccitest	START	1640185508434
+USER	Fibonaccitest	START	1640185508434
+USER	Fibonaccitest	START	1640185508436
+USER	Fibonaccitest	START	1640185508437
+USER	Fibonaccitest	START	1640185508437
+USER	Fibonaccitest	START	1640185508437
+USER	Fibonaccitest	START	1640185508429
+USER	Fibonaccitest	START	1640185508438
+USER	Fibonaccitest	START	1640185508445
+USER	Fibonaccitest	START	1640185508445
+USER	Fibonaccitest	START	1640185508443
+USER	Fibonaccitest	START	1640185508456
+USER	Fibonaccitest	START	1640185508456
+USER	Fibonaccitest	START	1640185508449
+USER	Fibonaccitest	START	1640185508458
+USER	Fibonaccitest	START	1640185508462
+USER	Fibonaccitest	START	1640185508461
+USER	Fibonaccitest	START	1640185508471
+USER	Fibonaccitest	START	1640185508470
+USER	Fibonaccitest	START	1640185508470
+USER	Fibonaccitest	START	1640185508464
+USER	Fibonaccitest	START	1640185508463
+USER	Fibonaccitest	START	1640185508480
+USER	Fibonaccitest	START	1640185508476
+USER	Fibonaccitest	START	1640185508474
+USER	Fibonaccitest	START	1640185508487
+USER	Fibonaccitest	START	1640185508485
+USER	Fibonaccitest	START	1640185508484
+USER	Fibonaccitest	START	1640185508482
+USER	Fibonaccitest	START	1640185508500
+USER	Fibonaccitest	START	1640185508497
+USER	Fibonaccitest	START	1640185508495
+USER	Fibonaccitest	START	1640185508489
+USER	Fibonaccitest	START	1640185508521
+USER	Fibonaccitest	START	1640185508519
+USER	Fibonaccitest	START	1640185508502
+USER	Fibonaccitest	START	1640185508522
+USER	Fibonaccitest	START	1640185508540
+USER	Fibonaccitest	START	1640185508543
+USER	Fibonaccitest	START	1640185508545
+USER	Fibonaccitest	START	1640185508549
+USER	Fibonaccitest	START	1640185507369
+USER	Fibonaccitest	START	1640185508563
+USER	Fibonaccitest	START	1640185508573
+USER	Fibonaccitest	START	1640185508590
+USER	Fibonaccitest	START	1640185508595
+USER	Fibonaccitest	START	1640185508597
+USER	Fibonaccitest	START	1640185508600
+USER	Fibonaccitest	START	1640185508604
+USER	Fibonaccitest	START	1640185508608
+USER	Fibonaccitest	START	1640185508610
+USER	Fibonaccitest	START	1640185508614
+USER	Fibonaccitest	START	1640185508626
+REQUEST		request_0	1640185507453	1640185512184	OK	 
+REQUEST		request_1	1640185512241	1640185512282	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185512242	1640185512293	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508407	1640185512845	OK	 
+REQUEST		request_1	1640185512847	1640185512859	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185512848	1640185512860	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508416	1640185516089	OK	 
+REQUEST		request_2	1640185516095	1640185516105	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_1	1640185516094	1640185516106	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508410	1640185517179	OK	 
+REQUEST		request_1	1640185517182	1640185517193	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185517183	1640185517194	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508419	1640185520472	OK	 
+REQUEST		request_1	1640185520475	1640185520485	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185520476	1640185520486	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508413	1640185521495	OK	 
+REQUEST		request_1	1640185521497	1640185521507	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185521498	1640185521509	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508401	1640185524849	OK	 
+REQUEST		request_1	1640185524859	1640185524872	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185524861	1640185524874	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185524856	1640185524925	OK	 
+USER	Fibonaccitest	END	1640185524932
+REQUEST		request_0	1640185508412	1640185525811	OK	 
+REQUEST		request_1	1640185525815	1640185525830	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185525816	1640185525832	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508407	1640185529229	OK	 
+REQUEST		request_1	1640185529231	1640185529242	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185529232	1640185529244	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185529231	1640185529255	OK	 
+USER	Fibonaccitest	END	1640185529256
+REQUEST		request_0	1640185508415	1640185530117	OK	 
+REQUEST		request_1	1640185530120	1640185530130	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185530121	1640185530131	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185530119	1640185530159	OK	 
+USER	Fibonaccitest	END	1640185530160
+REQUEST		request_0	1640185508406	1640185533604	OK	 
+REQUEST		request_1	1640185533606	1640185533621	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185533606	1640185533622	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185533605	1640185533631	OK	 
+USER	Fibonaccitest	END	1640185533632
+REQUEST		request_0	1640185508417	1640185534434	OK	 
+REQUEST		request_1	1640185534436	1640185534446	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185534436	1640185534447	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508411	1640185537981	OK	 
+REQUEST		request_1	1640185537988	1640185537999	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185537989	1640185538001	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185537983	1640185538012	OK	 
+USER	Fibonaccitest	END	1640185538013
+REQUEST		request_0	1640185507458	1640185538758	OK	 
+REQUEST		request_1	1640185538760	1640185538770	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185538761	1640185538772	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508426	1640185542358	OK	 
+REQUEST		request_1	1640185542361	1640185542393	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185542383	1640185542394	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508403	1640185543081	OK	 
+REQUEST		request_2	1640185543084	1640185543094	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_1	1640185543083	1640185543096	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185543082	1640185543111	OK	 
+USER	Fibonaccitest	END	1640185543113
+REQUEST		request_0	1640185508415	1640185546750	OK	 
+REQUEST		request_1	1640185546752	1640185546770	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185546753	1640185546771	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185546751	1640185546781	OK	 
+USER	Fibonaccitest	END	1640185546781
+REQUEST		request_0	1640185508409	1640185547393	OK	 
+REQUEST		request_1	1640185547395	1640185547405	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185547396	1640185547406	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508413	1640185551140	OK	 
+REQUEST		request_1	1640185551141	1640185551153	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185551142	1640185551154	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508422	1640185551711	OK	 
+REQUEST		request_1	1640185551713	1640185551723	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185551713	1640185551724	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185551712	1640185551737	OK	 
+USER	Fibonaccitest	END	1640185551739
+REQUEST		request_0	1640185508416	1640185555520	OK	 
+REQUEST		request_1	1640185555523	1640185555537	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185555524	1640185555539	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508423	1640185556026	OK	 
+REQUEST		request_1	1640185556030	1640185556043	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185556032	1640185556046	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508417	1640185559963	OK	 
+REQUEST		request_1	1640185559967	1640185559982	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185559972	1640185559984	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508424	1640185560485	OK	 
+REQUEST		request_1	1640185560487	1640185560499	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185560488	1640185560503	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_0	1640185508430	1640185564446	OK	 
+REQUEST		request_1	1640185564449	1640185564459	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185564450	1640185564460	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185564447	1640185564473	OK	 
+USER	Fibonaccitest	END	1640185564474
+REQUEST		request_0	1640185507451	1640185564869	OK	 
+REQUEST		request_1	1640185564871	1640185564881	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_2	1640185564872	1640185564884	KO	j.l.IllegalArgumentException: Protocol TLSv1.3 is not supported.
+REQUEST		request_3	1640185564871	1640185564908	OK	 
+USER	Fibonaccitest	END	1640185564909
+REQUEST		request_0	1640185507457	1640185567461	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185507451	1640185567461	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185507451	1640185567461	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185507456	1640185567461	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185567461
+USER	Fibonaccitest	END	1640185567461
+USER	Fibonaccitest	END	1640185567461
+USER	Fibonaccitest	END	1640185567461
+REQUEST		request_0	1640185507461	1640185567476	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185567477
+REQUEST		request_0	1640185508407	1640185568414	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508401	1640185568414	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508409	1640185568415	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508412	1640185568416	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508413	1640185568416	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568415
+USER	Fibonaccitest	END	1640185568415
+USER	Fibonaccitest	END	1640185568415
+USER	Fibonaccitest	END	1640185568416
+USER	Fibonaccitest	END	1640185568417
+REQUEST		request_0	1640185508414	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508423	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508422	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508421	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508426	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508423	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508428	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508425	1640185568430	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508426	1640185568431	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508416	1640185568431	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508427	1640185568431	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568430
+USER	Fibonaccitest	END	1640185568431
+USER	Fibonaccitest	END	1640185568431
+USER	Fibonaccitest	END	1640185568431
+USER	Fibonaccitest	END	1640185568431
+USER	Fibonaccitest	END	1640185568432
+REQUEST		request_0	1640185508434	1640185568445	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508436	1640185568445	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508431	1640185568445	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508436	1640185568445	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508439	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508438	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508434	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508443	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508438	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508438	1640185568446	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508446	1640185568447	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568445
+USER	Fibonaccitest	END	1640185568445
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568446
+USER	Fibonaccitest	END	1640185568447
+USER	Fibonaccitest	END	1640185568447
+REQUEST		request_0	1640185508447	1640185568460	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508453	1640185568460	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508459	1640185568460	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508457	1640185568460	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508456	1640185568461	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568461
+USER	Fibonaccitest	END	1640185568461
+USER	Fibonaccitest	END	1640185568461
+USER	Fibonaccitest	END	1640185568461
+USER	Fibonaccitest	END	1640185568461
+REQUEST		request_0	1640185508462	1640185568475	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508462	1640185568475	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508464	1640185568476	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508471	1640185568476	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508470	1640185568476	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508464	1640185568476	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508474	1640185568477	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508470	1640185568477	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508477	1640185568477	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568476
+USER	Fibonaccitest	END	1640185568477
+USER	Fibonaccitest	END	1640185568477
+USER	Fibonaccitest	END	1640185568477
+REQUEST		request_0	1640185508485	1640185568491	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508481	1640185568491	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+REQUEST		request_0	1640185508483	1640185568491	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508490	1640185568491	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508486	1640185568492	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508487	1640185568491	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568491
+USER	Fibonaccitest	END	1640185568491
+USER	Fibonaccitest	END	1640185568492
+USER	Fibonaccitest	END	1640185568492
+USER	Fibonaccitest	END	1640185568492
+USER	Fibonaccitest	END	1640185568492
+REQUEST		request_0	1640185508496	1640185568507	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+REQUEST		request_0	1640185508498	1640185568506	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508500	1640185568507	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508502	1640185568507	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568507
+USER	Fibonaccitest	END	1640185568507
+USER	Fibonaccitest	END	1640185568507
+USER	Fibonaccitest	END	1640185568507
+REQUEST		request_0	1640185508521	1640185568522	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+REQUEST		request_0	1640185508520	1640185568522	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568522
+USER	Fibonaccitest	END	1640185568522
+REQUEST		request_0	1640185508523	1640185568538	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568539
+REQUEST		request_0	1640185508541	1640185568553	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568554
+REQUEST		request_0	1640185508543	1640185568554	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568554
+REQUEST		request_0	1640185508545	1640185568554	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568555
+REQUEST		request_0	1640185508550	1640185568555	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568555
+REQUEST		request_0	1640185508564	1640185568569	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568570
+REQUEST		request_0	1640185508574	1640185568584	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568585
+REQUEST		request_0	1640185508593	1640185568601	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568603
+REQUEST		request_0	1640185508596	1640185568603	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568604
+REQUEST		request_0	1640185508598	1640185568604	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568605
+REQUEST		request_0	1640185508602	1640185568605	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568606
+REQUEST		request_0	1640185508605	1640185568606	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568606
+REQUEST		request_0	1640185508608	1640185568616	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568617
+REQUEST		request_0	1640185508612	1640185568617	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568617
+REQUEST		request_0	1640185508614	1640185568618	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568618
+REQUEST		request_0	1640185508627	1640185568632	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185568632
+REQUEST		request_3	1640185512240	1640185572255	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185572255
+REQUEST		request_3	1640185512846	1640185572847	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185572848
+REQUEST		request_3	1640185516092	1640185576102	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185576102
+REQUEST		request_3	1640185517181	1640185577186	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185577187
+REQUEST		request_3	1640185520474	1640185580475	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185580476
+REQUEST		request_3	1640185521497	1640185581505	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185581506
+REQUEST		request_3	1640185525814	1640185585826	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185585827
+REQUEST		request_3	1640185534435	1640185594447	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185594449
+REQUEST		request_3	1640185538759	1640185598771	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185598772
+REQUEST		request_3	1640185542360	1640185602360	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185602361
+REQUEST		request_3	1640185547395	1640185607399	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185607401
+REQUEST		request_3	1640185551141	1640185611147	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185611148
+REQUEST		request_3	1640185555521	1640185615536	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185615536
+REQUEST		request_3	1640185556029	1640185616030	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/52.51.122.150:80 after 60000 ms
+USER	Fibonaccitest	END	1640185616030
+REQUEST		request_3	1640185559965	1640185619968	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/34.253.49.13:80 after 60000 ms
+USER	Fibonaccitest	END	1640185619970
+REQUEST		request_3	1640185560486	1640185620501	KO	i.g.h.c.i.RequestTimeoutException: Request timeout to eng99-group1-xmasproject-elb-105805637.eu-west-1.elb.amazonaws.com/46.137.29.197:80 after 60000 ms
+USER	Fibonaccitest	END	1640185620501
