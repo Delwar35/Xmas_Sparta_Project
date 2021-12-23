@@ -43,6 +43,26 @@
 
 ![image](https://user-images.githubusercontent.com/14828358/146765735-6d5d5821-1ab2-4461-9e64-e66c09308adb.png)
 
+- Click `Create Load Balancer`
+
+### Step 4: Assign to Auto Scaling Group (ASG)
+
+- Select ASG
+
+![image](https://user-images.githubusercontent.com/14828358/147234863-19358f56-27ff-464b-acbb-0f1c5d3005c0.png)
+
+- On Details tab, scroll down to Load Balancinga click edit
+
+![image](https://user-images.githubusercontent.com/14828358/147234997-e9c34f16-7467-459b-b43a-d7e392d7be7b.png)
+
+- Select load balancer from dropdown
+
+![image](https://user-images.githubusercontent.com/14828358/147235060-a1041050-29f1-4d51-9313-6722606401e1.png)
+
+- Click update
+
+![image](https://user-images.githubusercontent.com/14828358/147235130-7c51efc0-2084-46fa-9b07-477a02cb3c89.png)
+
 
 
 
