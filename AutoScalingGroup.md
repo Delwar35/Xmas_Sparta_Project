@@ -27,4 +27,6 @@
 
 ![image](https://user-images.githubusercontent.com/14828358/147253443-75ae3327-5e7e-4098-9d24-d0bb29962c33.png)
  
- -click Next
+ - the rest of the steps are optional
+ - click skip to review
+ - click create auto scaling group
