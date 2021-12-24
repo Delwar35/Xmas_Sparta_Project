@@ -1,5 +1,8 @@
 # Xmas_Sparta_Project
-Xmas project 
+
+# Link to Tello board:
+https://trello.com/b/IvYdXKDH/xmasspartaproject
+
 
 ### Load Balancer
 ![image](https://user-images.githubusercontent.com/14828358/147345193-296d4138-dcee-4b56-aef9-08e054b0e016.png)
