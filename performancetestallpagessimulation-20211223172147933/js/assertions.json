@@ -1,0 +1,10 @@
+{
+  "simulation": "PerformanceTestAllPagesSimulation",
+  "simulationId": "performancetestallpagessimulation",
+  "start": 1640280107933,
+  "description": "Performance Test on all pages",
+  "scenarios": ["PerformanceTestAllPagesSimulation"],
+  "assertions": [
+
+  ]
+}
