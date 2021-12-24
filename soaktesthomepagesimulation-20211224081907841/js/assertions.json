@@ -1,0 +1,10 @@
+{
+  "simulation": "SoakTestHomepageSimulation",
+  "simulationId": "soaktesthomepagesimulation",
+  "start": 1640333947841,
+  "description": "Soak Test home page for 3 hours 5 users per sec",
+  "scenarios": ["SoakTestHomepageSimulation"],
+  "assertions": [
+
+  ]
+}
