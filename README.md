@@ -7,3 +7,7 @@ Xmas project
 
 ### Instance
 ![image](https://user-images.githubusercontent.com/14828358/147345331-a5aea158-e268-4059-9754-6657604fd5b9.png)
+
+### Email
+![image](https://user-images.githubusercontent.com/94615905/147345814-6432415d-3a29-4e32-870a-1d9be7b3174b.png)
+
