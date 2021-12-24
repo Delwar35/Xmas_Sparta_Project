@@ -63,6 +63,8 @@ Spike testing is a type of performance testing in which an application receives 
 
 ![](Images/recorder2.png)
 
+## Spike testing gatling
+
 
 
 
