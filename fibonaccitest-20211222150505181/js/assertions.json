@@ -1,0 +1,10 @@
+{
+  "simulation": "Fibonaccitest",
+  "simulationId": "fibonaccitest",
+  "start": 1640185505181,
+  "description": "",
+  "scenarios": ["Fibonaccitest"],
+  "assertions": [
+
+  ]
+}
